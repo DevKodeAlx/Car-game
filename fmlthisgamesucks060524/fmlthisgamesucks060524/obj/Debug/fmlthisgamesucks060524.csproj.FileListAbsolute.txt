@@ -1,0 +1,7 @@
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\obj\Debug\fmlthisgamesucks060524.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\obj\Debug\fmlthisgamesucks060524.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\bin\Debug\fmlthisgamesucks060524.exe.config
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\bin\Debug\fmlthisgamesucks060524.exe
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\bin\Debug\fmlthisgamesucks060524.pdb
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\obj\Debug\fmlthisgamesucks060524.exe
+C:\Users\aleks\source\repos\fmlthisgamesucks060524\fmlthisgamesucks060524\obj\Debug\fmlthisgamesucks060524.pdb
